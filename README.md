@@ -7,15 +7,15 @@ This repository store the website which will be used to surf the Internet conven
 
 1. A  high quality VPS recommend  Blog
 
-​	   site：https://iyideng.win/special/bgfw/best-ss-ssr-v2ray-trojan.html
+    site：https://iyideng.win/special/bgfw/best-ss-ssr-v2ray-trojan.html
 
- 2. Three VPS summary navigations
+2. Three VPS summary navigations
 
     site1: https://52bp.org/airport.html
 
     site2: https://www.ffqla.com/#term-8
-
-​	   site3:  https://52nav.github.io/  (vps websites on the foot)
+    
+    site3:  https://52nav.github.io/  (vps websites on the foot)
 
 
 
